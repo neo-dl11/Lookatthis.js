@@ -7,9 +7,6 @@ Welcome to My Tools Web Application! This project is a Node.js-based web applica
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -38,7 +35,7 @@ Welcome to My Tools Web Application! This project is a Node.js-based web applica
     npm install
 ```
 
-V2. **Usage**:
+3. **Usage**:
 ```
     node app.js
 ```
